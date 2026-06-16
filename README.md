@@ -1,7 +1,21 @@
-# Projeto Delivery - JavaFX + JDBC + MySQL
+# Projeto LT 2026
 
-Projeto corrigido para usar o banco `delivery` com as tabelas do dump enviado:
-`cliente`, `produto`, `entregador`, `pedido`, `item_pedido` e `entrega`.
+## Integrantes do grupo:
+
+- ANA CAROLINA CARVALHO ROCHA
+- REBECA BARBOSA DA SILVA PEREIRA
+- ISADORA MIRANDA SANTOS
+- LAIANE RIBEIRO DA SILVA
+- KAUAN FELIPE DE OLIVEIRA SILVA
+
+## Sobre o projeto
+
+Este projeto foi desenvolvido como parte da disciplina de Linguagem Tecnica, com o objetivo de aplicar conceitos de programação em Java e integração com banco de dados relacional.
+
+## ⚙️ Como configurar o banco de dados
+
+1. Abra o MySQL (ou outro SGBD de sua preferência).
+2. Crie o banco de dados executando o comando:
 
 ## Como rodar
 
